@@ -274,6 +274,21 @@ void main()
 }
 ```
 
+Here is the images used in the code:
+
+img1:
+
+![](https://github.com/FreeBlues/Codea-ParallaxMapping/blob/master/images/IMG1.JPG)
+
+img2:
+
+![](https://github.com/FreeBlues/Codea-ParallaxMapping/blob/master/images/IMG2.PNG)
+
+img3:
+
+![](https://github.com/FreeBlues/Codea-ParallaxMapping/blob/master/images/IMG3.PNG)
+
+
 ##	Reference
 
 [38 视差贴图](http://bullteacher.com/38-parallax-mapping.html)  
