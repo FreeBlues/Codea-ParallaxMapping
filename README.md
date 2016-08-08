@@ -18,15 +18,15 @@ Using different parameters:
 
 -	height_scale = -0.015
 
-![](https://github.com/FreeBlues/Codea-ParallaxMapping/blob/master/images/I015.PNG)
+![](https://github.com/FreeBlues/Codea-ParallaxMapping/blob/master/images/I015-s.PNG)
 
 -	height_scale = -0.055
 
-![](https://github.com/FreeBlues/Codea-ParallaxMapping/blob/master/images/I055.PNG)
+![](https://github.com/FreeBlues/Codea-ParallaxMapping/blob/master/images/I055-s.PNG)
 
 -	height_scale = -0.095
 
-![](https://github.com/FreeBlues/Codea-ParallaxMapping/blob/master/images/I095.PNG)
+![](https://github.com/FreeBlues/Codea-ParallaxMapping/blob/master/images/I095-s.PNG)
 
 ##	Displacement Mapping
 
