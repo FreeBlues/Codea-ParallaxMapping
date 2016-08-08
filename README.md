@@ -18,15 +18,15 @@ Using different parameters:
 
 -	height_scale = -0.015
 
-![]()
+![](https://github.com/FreeBlues/Codea-ParallaxMapping/blob/master/images/I015.PNG)
 
 -	height_scale = -0.055
 
-![]()
+![](https://github.com/FreeBlues/Codea-ParallaxMapping/blob/master/images/I055.PNG)
 
 -	height_scale = -0.095
 
-![]()
+![](https://github.com/FreeBlues/Codea-ParallaxMapping/blob/master/images/I095.PNG)
 
 ##	Displacement Mapping
 
@@ -50,7 +50,8 @@ below is the code(modify from [38 视差贴图](http://bullteacher.com/38-parall
 
 function setup()
     displayMode(OVERLAY)
-    print("试验 StackOverflow 中位移贴图的例子")
+    print("试验 OpenGL ES 2.0 中位移贴图的例子")
+    print("Test the Parallax Mapping in OpenGL ES 2.0")
 
     img1 = readImage("Dropbox:dm")
     img2 = readImage("Dropbox:dnm1")
@@ -273,6 +274,24 @@ void main()
 ]]
 }
 ```
+
+I used the [CrazyBump](http://crazybump.com) to generate the `normal map`(img2) and `height map`(img3) from the `texture`(img1). 
+
+Here is the images used in the code, you can download and use them directly:
+
+
+img1:
+
+![](https://github.com/FreeBlues/Codea-ParallaxMapping/blob/master/images/IMG1.JPG)
+
+img2:
+
+![](https://github.com/FreeBlues/Codea-ParallaxMapping/blob/master/images/IMG2.PNG)
+
+img3:
+
+![](https://github.com/FreeBlues/Codea-ParallaxMapping/blob/master/images/IMG3.PNG)
+
 
 ##	Reference
 
