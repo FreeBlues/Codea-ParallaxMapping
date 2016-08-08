@@ -274,7 +274,10 @@ void main()
 }
 ```
 
-Here is the images used in the code:
+I used the [CrazyBump](http://crazybump.com) to generate the `normal map`(img2) and `height map`(img3) from the `texture`(img1). 
+
+Here is the images used in the code, you can download and use them directly:
+
 
 img1:
 
