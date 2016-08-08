@@ -50,7 +50,8 @@ below is the code(modify from [38 视差贴图](http://bullteacher.com/38-parall
 
 function setup()
     displayMode(OVERLAY)
-    print("试验 StackOverflow 中位移贴图的例子")
+    print("试验 OpenGL ES 2.0 中位移贴图的例子")
+    print("Test the Parallax Mapping in OpenGL ES 2.0")
 
     img1 = readImage("Dropbox:dm")
     img2 = readImage("Dropbox:dnm1")
